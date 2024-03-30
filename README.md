@@ -3,6 +3,9 @@
     <img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'/></a>
   
 </p>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Pedro-2077&label=Profile%20Views&color=11&icon=0&pretty=true" />
+</a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=30&center=true&vCenter=true&width=1000&lines=HELLO+Worlds,+MY+NAME+is+Pedro+Vinicius;I+am+from+Niterói,+RJ+-+BRASIL;I+study+Information+Systems+at+UnilaSalle-RJ;Be+Welcome!+:%20)](https://git.io/typing-svg)
 
