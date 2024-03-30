@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://github.com/Pedro-2077">
     <img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif'/></a>
+  
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9932CC&size=30&center=true&vCenter=true&width=1000&lines=HELLO+Worlds,+MY+NAME+is+Pedro+Vinicius;I+am+from+Niterói,+RJ+-+BRASIL;I+study+Information+Systems+at+UnilaSalle-RJ;Be+Welcome!+:%20)](https://git.io/typing-svg)
@@ -26,9 +27,6 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img width="90%" alt="Pedro-2077's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Pedro-2077&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </div>
-
-<br>
-
 
 <br>
 
